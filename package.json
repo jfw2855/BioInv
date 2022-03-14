@@ -1,0 +1,26 @@
+{
+  "name": "bioinv",
+  "version": "1.0.0",
+  "description": "BioInv is an inventory tracking system for biological samples. Users will have the ability to add, update, or delete samples their samples. #### Full-Stack CRUD App created during GA SEI program (Project 2)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfw2855/BioInv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jfw2855/BioInv/issues"
+  },
+  "homepage": "https://github.com/jfw2855/BioInv#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "liquid-express-views": "^1.0.8",
+    "node-fetch": "^3.2.3"
+  }
+}
